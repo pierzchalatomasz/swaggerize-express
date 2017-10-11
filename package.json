@@ -1,5 +1,5 @@
 {
-  "name": "swaggerize-express",
+  "name": "swaggerize-express-ts",
   "version": "4.0.6",
   "author": "Trevor Livingston <trlivingston@paypal.com>",
   "contributors": [
@@ -37,7 +37,7 @@
     "debuglog": "^1.0.1",
     "js-yaml": "^3.2.6",
     "path-to-regexp": "^1.2.1",
-    "swaggerize-routes": "^1.0.0"
+    "swaggerize-routes-ts": "^1.0.0"
   },
   "peerDependencies": {
     "express": "^4.0.0"
