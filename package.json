@@ -24,9 +24,9 @@
   "main": "./lib/index",
   "repository": {
     "type": "git",
-    "url": "git://github.com/krakenjs/swaggerize-express.git"
+    "url": "git://github.com/pierzchalatomasz/swaggerize-express.git"
   },
-  "bugs": "http://github.com/krakenjs/swaggerize-express/issues",
+  "bugs": "http://github.com/pierzchalatomasz/swaggerize-express/issues",
   "engines": {
     "node": "<=4.x"
   },
